@@ -1,0 +1,7 @@
+[33mea98d27[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: pull origin main --rebase (start): checkout ea98d27098e1e97a06ab89fd86b27bf094d194c6
+[33m87fa4a1[m[33m ([m[1;32mmain[m[33m)[m HEAD@{1}: Branch: renamed refs/heads/main to refs/heads/main
+[33m87fa4a1[m[33m ([m[1;32mmain[m[33m)[m HEAD@{3}: commit: Ajout du login au projet
+[33m42fa458[m HEAD@{4}: Branch: renamed refs/heads/main to refs/heads/main
+[33m42fa458[m HEAD@{6}: commit: API + LOGIN
+[33mfde21a4[m HEAD@{7}: Branch: renamed refs/heads/master to refs/heads/main
+[33mfde21a4[m HEAD@{9}: commit (initial): Set up a fresh Laravel app
