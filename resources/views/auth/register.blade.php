@@ -55,7 +55,7 @@ document.getElementById('registerForm').addEventListener('submit', async functio
         messageDiv.innerHTML = '<div class="alert alert-danger">Les mots de passe ne correspondent pas.</div>';
         return;
     }
-
+//try
     try {
         const response = await fetch('/api/register', {
             method: 'POST',
